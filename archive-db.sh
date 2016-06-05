@@ -13,11 +13,12 @@ prevLinks=`head links.md`
 header=`cat header.md`
 footer=`cat footer.md`
 skipping=`grep $file_gz links.md |wc -l`
-if [[ $skillping > 0 ]]; then
+if [[ $skipping > 0 ]]; then
   echo Today is archived.
   exit 0
 fi
 # archive
+rm tobedeleted.*
 tar -zcvf $file_gz $file/.
 sha256sum $file_gz > $file_sha256
 size_gz=$(ls -lh $file_gz |awk -F" " '{ print $5}')
@@ -33,7 +34,8 @@ if [[ $url_sha256 == "" ]]; then
 fi
 newLinks="Block $blocks: $date [$file_gz]($url_gz) ($size_gz) [SHA256]($url_sha256)\n\n$prevLinks"
 echo -e "$newLinks" > links.md
-rm $file_gz $file_sha256 
+mv $file_gz tobedeleted.$file_gz
+mv $file_sha256  tobedeleted.$file_sha256
 #construct README.md
 echo -e "$header\n\n####For mainnet:\n\n$newLinks\n\n$footer" > README.md
 # Push
