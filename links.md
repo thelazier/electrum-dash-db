@@ -1,3 +1,5 @@
+Block 573582: Sun Nov 20 09:00:02 UTC 2016 [electrum-dash-leveldb-utxo-10000.20161120.tar.gz](https://transfer.sh/vGvP6/electrum-dash-leveldb-utxo-10000.20161120.tar.gz) (1014M) [SHA256](https://transfer.sh/WK04m/electrum-dash-leveldb-utxo-10000.20161120.tar.gz.sha256)
+
 Block 572848: Sat Nov 19 01:00:02 UTC 2016 [electrum-dash-leveldb-utxo-10000.20161119.tar.gz](https://transfer.sh/9eV3E/electrum-dash-leveldb-utxo-10000.20161119.tar.gz) (924M) [SHA256](https://transfer.sh/RuuEc/electrum-dash-leveldb-utxo-10000.20161119.tar.gz.sha256)
 
 Block 572302: Fri Nov 18 01:00:01 UTC 2016 [electrum-dash-leveldb-utxo-10000.20161118.tar.gz](https://transfer.sh/7vn7d/electrum-dash-leveldb-utxo-10000.20161118.tar.gz) (936M) [SHA256](https://transfer.sh/X71s3/electrum-dash-leveldb-utxo-10000.20161118.tar.gz.sha256)
@@ -7,5 +9,3 @@ Block 571751: Thu Nov 17 01:00:03 UTC 2016 [electrum-dash-leveldb-utxo-10000.201
 Block 571209: Wed Nov 16 01:00:02 UTC 2016 [electrum-dash-leveldb-utxo-10000.20161116.tar.gz](https://transfer.sh/ZmLAo/electrum-dash-leveldb-utxo-10000.20161116.tar.gz) (924M) [SHA256](https://transfer.sh/M7s5o/electrum-dash-leveldb-utxo-10000.20161116.tar.gz.sha256)
 
 Block 570659: Tue Nov 15 01:00:02 UTC 2016 [electrum-dash-leveldb-utxo-10000.20161115.tar.gz](https://transfer.sh/zyM0H/electrum-dash-leveldb-utxo-10000.20161115.tar.gz) (921M) [SHA256](https://transfer.sh/v8Hxm/electrum-dash-leveldb-utxo-10000.20161115.tar.gz.sha256)
-
-Block 570114: Mon Nov 14 01:00:02 UTC 2016 [electrum-dash-leveldb-utxo-10000.20161114.tar.gz](https://transfer.sh/77IaN/electrum-dash-leveldb-utxo-10000.20161114.tar.gz) (911M) [SHA256](https://transfer.sh/dp4vH/electrum-dash-leveldb-utxo-10000.20161114.tar.gz.sha256)
